@@ -1,0 +1,9 @@
+Project Abstract: Azure Backup Protection
+
+**Title: Azure Recovery Services Vault Soft Delete and Ransomware Guard**
+
+This project focuses on protecting data and virtual machines in **Microsoft Azure** from accidental deletion, data loss, and ransomware attacks. The system uses **Azure Recovery Services Vault** to store and manage backups securely. **Soft Delete** helps retain deleted backup data for a specified period, allowing recovery even after accidental or malicious deletion. **Ransomware protection** adds an additional security layer to protect backup data from unauthorized changes and destructive attacks.
+
+The project demonstrates the complete backup and recovery process, including creating an Azure Recovery Services Vault, configuring backup policies, protecting a virtual machine, performing backup operations, and restoring the protected resources. The main objective is to provide a reliable, secure, and recoverable cloud environment that improves **data availability, business continuity, and disaster recovery**.
+
+**Keywords:** Azure, Recovery Services Vault, Backup, Soft Delete, Ransomware Protection, Virtual Machine, Cloud Security, Disaster Recovery.

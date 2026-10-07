@@ -1,0 +1,15 @@
+### List of Services / Technologies Required
+
+1. **Microsoft Azure** – Cloud platform.
+2. **Azure Virtual Machine (VM)** – Resource to be protected.
+3. **Azure Recovery Services Vault** – Stores and manages backups.
+4. **Azure Backup** – Creates VM backups.
+5. **Backup Policy** – Defines backup schedule and retention.
+6. **Soft Delete** – Protects deleted backup data.
+7. **Ransomware Protection** – Protects backup data from malicious actions.
+8. **Azure Resource Group** – Organizes project resources.
+9. **Azure Storage** – Stores backup recovery points.
+10. **Azure Portal** – Used to configure and manage Azure services.
+11. **Azure Monitor** – Monitors backup and resource activities.
+12. **Windows/Linux OS** – Operating system for the VM.
+13. **Internet & Web Browser** – Required to access Azure Portal.
